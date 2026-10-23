@@ -1,10 +1,10 @@
 # Skill Catalog
 
-Generated at: 2026-10-02T09:16:00.646Z
+Generated at: 2026-10-23T16:21:03.288Z
 
-Total skills: 813
+Total skills: 816
 
-## architecture (66)
+## architecture (68)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -30,6 +30,7 @@ Total skills: 813
 | `core-components` | Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library. | core, components | core, components, component, library, building, ui, tokens, working |
 | `cpp-pro` | Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization. Use... | cpp | cpp, pro, write, idiomatic, code, features, raii, smart, pointers, stl, algorithms, move |
 | `cqrs-implementation` | Implement Command Query Responsibility Segregation for scalable architectures. Use when separating read and write models, optimizing query performance, or bu... | cqrs | cqrs, command, query, responsibility, segregation, scalable, architectures, separating, read, write, models, optimizing |
+| `deterministic-event-motion` | Design seekable, evidence-grounded event and graph animations whose state is reproducible at any requested time. | deterministic, event, motion | deterministic, event, motion, seekable, evidence, grounded, graph, animations, whose, state, reproducible, any |
 | `doc-coauthoring` | Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision do... | doc, coauthoring | doc, coauthoring, users, through, structured, co, authoring, documentation, user, wants, write, proposals |
 | `docs-architect` | Creates comprehensive technical documentation from existing codebases. Analyzes architecture, design patterns, and implementation details to produce long-for... | docs | docs, architect, creates, technical, documentation, existing, codebases, analyzes, architecture, details, produce, long |
 | `elixir-pro` | Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems. Use PR... | elixir | elixir, pro, write, idiomatic, code, otp, supervision, trees, phoenix, liveview, masters, concurrency |
@@ -39,6 +40,7 @@ Total skills: 813
 | `etetoolkit` | Phylogenetic tree toolkit (ETE). Tree manipulation (Newick/NHX), evolutionary event detection, orthology/paralogy, NCBI taxonomy, visualization (PDF/SVG), fo... | etetoolkit | etetoolkit, phylogenetic, tree, toolkit, ete, manipulation, newick, nhx, evolutionary, event, detection, orthology |
 | `event-sourcing-architect` | Expert in event sourcing, CQRS, and event-driven architecture patterns. Masters event store design, projection building, saga orchestration, and eventual con... | event, sourcing | event, sourcing, architect, cqrs, driven, architecture, masters, store, projection, building, saga, orchestration |
 | `event-store-design` | Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implement... | event, store | event, store, stores, sourced, building, sourcing, infrastructure, choosing, technologies, implementing, persistence |
+| `evidence-led-explainer` | Turn verified news, research, or event graphs into understandable explainers with synchronized facts, narration, and visuals. | evidence, led, explainer | evidence, led, explainer, turn, verified, news, research, event, graphs, understandable, explainers, synchronized |
 | `game-development/multiplayer` | Multiplayer game development principles. Architecture, networking, synchronization. | game, development/multiplayer | game, development/multiplayer, multiplayer, development, principles, architecture, networking, synchronization |
 | `godot-gdscript-patterns` | Master Godot 4 GDScript patterns including signals, scenes, state machines, and optimization. Use when building Godot games, implementing game systems, or le... | godot, gdscript | godot, gdscript, including, signals, scenes, state, machines, optimization, building, games, implementing, game |
 | `haskell-pro` | Expert Haskell engineer specializing in advanced type systems, pure functional design, and high-reliability software. Use PROACTIVELY for type-level programm... | haskell | haskell, pro, engineer, specializing, type, pure, functional, high, reliability, software, proactively, level |
@@ -402,7 +404,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `viral-generator-builder` | Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers t... | viral, generator, builder | viral, generator, builder, building, shareable, go, name, generators, quiz, makers, avatar, creators |
 | `webapp-testing` | Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing... | webapp | webapp, testing, toolkit, interacting, local, web, applications, playwright, supports, verifying, frontend, functionality |
 
-## general (178)
+## general (179)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -541,6 +543,7 @@ TRIGGER: "shopify", "shopify app", "checkout extension",... | shopify | shopify,
 | `rdkit` | Cheminformatics toolkit for fine-grained molecular control. SMILES/SDF parsing, descriptors (MW, LogP, TPSA), fingerprints, substructure search, 2D/3D genera... | rdkit | rdkit, cheminformatics, toolkit, fine, grained, molecular, control, smiles, sdf, parsing, descriptors, mw |
 | `receiving-code-review` | Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technic... | receiving, code | receiving, code, review, feedback, before, implementing, suggestions, especially, seems, unclear, technically, questionable |
 | `referral-program` | When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referr... | referral, program | referral, program, user, wants, optimize, analyze, affiliate, word, mouth, mentions, ambassador, viral |
+| `repo-design-system` | Extract and refine a repository-backed visual system without inventing tokens, replacing components, or adding a second UI framework. | repo | repo, extract, refine, repository, backed, visual, without, inventing, tokens, replacing, components, adding |
 | `requesting-code-review` | Use when completing tasks, implementing major features, or before merging to verify work meets requirements | requesting, code | requesting, code, review, completing, tasks, implementing, major, features, before, merging, verify, work |
 | `research-lookup` | Look up current research information using Perplexity's Sonar Pro Search or Sonar Reasoning Pro models through OpenRouter. Automatically selects the best mod... | research, lookup | research, lookup, look, up, current, information, perplexity, sonar, pro, search, reasoning, models |
 | `scholar-evaluation` | Systematically evaluate scholarly work using the ScholarEval framework, providing structured assessment across research quality dimensions including problem ... | scholar, evaluation | scholar, evaluation, systematically, evaluate, scholarly, work, scholareval, framework, providing, structured, assessment, research |

@@ -2070,6 +2070,15 @@
     "source": "unknown"
   },
   {
+    "id": "deterministic-event-motion",
+    "path": "skills/deterministic-event-motion",
+    "category": "uncategorized",
+    "name": "deterministic-event-motion",
+    "description": "Design seekable, evidence-grounded event and graph animations whose state is reproducible at any requested time.",
+    "risk": "safe",
+    "source": "self"
+  },
+  {
     "id": "devops-troubleshooter",
     "path": "skills/devops-troubleshooter",
     "category": "uncategorized",
@@ -2455,6 +2464,15 @@
     "description": "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "evidence-led-explainer",
+    "path": "skills/evidence-led-explainer",
+    "category": "uncategorized",
+    "name": "evidence-led-explainer",
+    "description": "Turn verified news, research, or event graphs into understandable explainers with synchronized facts, narration, and visuals.",
+    "risk": "none",
+    "source": "self"
   },
   {
     "id": "exa-search",
@@ -5335,6 +5353,15 @@
     "description": "Best practices for Remotion - Video creation in React",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "repo-design-system",
+    "path": "skills/repo-design-system",
+    "category": "uncategorized",
+    "name": "repo-design-system",
+    "description": "Extract and refine a repository-backed visual system without inventing tokens, replacing components, or adding a second UI framework.",
+    "risk": "safe",
+    "source": "self"
   },
   {
     "id": "requesting-code-review",
