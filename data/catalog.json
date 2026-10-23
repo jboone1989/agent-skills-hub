@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-02T09:16:00.646Z",
-  "total": 813,
+  "generatedAt": "2026-10-23T16:21:03.288Z",
+  "total": 816,
   "skills": [
     {
       "id": "3d-web-experience",
@@ -5626,6 +5626,32 @@
       "path": "skills/design-orchestration/SKILL.md"
     },
     {
+      "id": "deterministic-event-motion",
+      "name": "deterministic-event-motion",
+      "description": "Design seekable, evidence-grounded event and graph animations whose state is reproducible at any requested time.",
+      "category": "architecture",
+      "tags": [
+        "deterministic",
+        "event",
+        "motion"
+      ],
+      "triggers": [
+        "deterministic",
+        "event",
+        "motion",
+        "seekable",
+        "evidence",
+        "grounded",
+        "graph",
+        "animations",
+        "whose",
+        "state",
+        "reproducible",
+        "any"
+      ],
+      "path": "skills/deterministic-event-motion/SKILL.md"
+    },
+    {
       "id": "devops-troubleshooter",
       "name": "devops-troubleshooter",
       "description": "Expert DevOps troubleshooter specializing in rapid incident response, advanced debugging, and modern observability. Masters log analysis, distributed tracing, Kubernetes debugging, performance optimization, and root cause analysis. Handles production outages, system reliability, and preventive monitoring. Use PROACTIVELY for debugging, incident response, or system troubleshooting.",
@@ -6745,6 +6771,32 @@
         "persistence"
       ],
       "path": "skills/event-store-design/SKILL.md"
+    },
+    {
+      "id": "evidence-led-explainer",
+      "name": "evidence-led-explainer",
+      "description": "Turn verified news, research, or event graphs into understandable explainers with synchronized facts, narration, and visuals.",
+      "category": "architecture",
+      "tags": [
+        "evidence",
+        "led",
+        "explainer"
+      ],
+      "triggers": [
+        "evidence",
+        "led",
+        "explainer",
+        "turn",
+        "verified",
+        "news",
+        "research",
+        "event",
+        "graphs",
+        "understandable",
+        "explainers",
+        "synchronized"
+      ],
+      "path": "skills/evidence-led-explainer/SKILL.md"
     },
     {
       "id": "exa-search",
@@ -14642,6 +14694,30 @@
         "creation"
       ],
       "path": "skills/remotion-best-practices/SKILL.md"
+    },
+    {
+      "id": "repo-design-system",
+      "name": "repo-design-system",
+      "description": "Extract and refine a repository-backed visual system without inventing tokens, replacing components, or adding a second UI framework.",
+      "category": "general",
+      "tags": [
+        "repo"
+      ],
+      "triggers": [
+        "repo",
+        "extract",
+        "refine",
+        "repository",
+        "backed",
+        "visual",
+        "without",
+        "inventing",
+        "tokens",
+        "replacing",
+        "components",
+        "adding"
+      ],
+      "path": "skills/repo-design-system/SKILL.md"
     },
     {
       "id": "requesting-code-review",
